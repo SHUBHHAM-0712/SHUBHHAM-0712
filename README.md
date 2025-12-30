@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=D70000&style=for-the-badge" alt="Profile views" />
-	<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=1E90FF" alt="GitHub followers" />
+	<img src="https://komarev.com/ghpvc/?username=SHUBHHAM-0712&label=Profile%20Views&color=D70000&style=for-the-badge" alt="Profile views" />
+	<img src="https://img.shields.io/github/followers/SHUBHHAM-0712?label=Followers&style=for-the-badge&color=1E90FF" alt="GitHub followers" />
 </p>
 
 <br>
@@ -115,7 +115,7 @@
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=1E90FF&line=D70000&point=1E90FF&area=true&hide_border=false&border_color=D70000" alt="Contribution Graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHUBHHAM-0712&theme=react-dark&bg_color=0D1117&color=1E90FF&line=D70000&point=1E90FF&area=true&hide_border=false&border_color=D70000" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -123,17 +123,17 @@
 <h2 align="center">💼 Stats & Insights</h2>
     
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Profile Details" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHUBHHAM-0712&theme=radical" alt="Profile Details" />
 </p>
   
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Repos Per Language" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Most Commit Language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHUBHHAM-0712&theme=radical" alt="Repos Per Language" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHUBHHAM-0712&theme=radical" alt="Most Commit Language" />
 </p>
   
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Stats" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Productive Time" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHUBHHAM-0712&theme=radical" alt="Stats" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHUBHHAM-0712&theme=radical" alt="Productive Time" />
 </p>
 
 <br>
